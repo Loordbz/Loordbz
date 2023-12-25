@@ -1,8 +1,8 @@
-### Bem-vindo! Eu sou Leonardo Berto
+### Welcome! I'm Leonardo Berto
 
-- 🔭 I’m currently working on back-end
-- 🚀 I’m currently learning VisualStudio, C#, .NET, MYSQL
-- 🌱 I'll have projects to study as Python, HTML5, CSS, JavaScript
+- 🔭 I'm currently working on the backend with C#
+- 🚀 I'm improving my knowledge in SQL Server, C#, .NET, Asp.NET, React
+- 🌱 I have projects with C#, nodeJS, React
 
 <div align="center">
   <a href="https://www.github.com/Loordbz">
