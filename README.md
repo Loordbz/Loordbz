@@ -1,8 +1,8 @@
-### Welcome! I'm Leonardo Berto
+<!-- ### Welcome! I'm Leonardo Berto
 
 - 🔭 I'm currently working full stack with C# and Angular
 - 🚀 I'm improving my knowledge in SQL Server, C#, .NET, React, Angular, AWS
-- 🌱 I have projects with C#, nodeJS, React, Angular
+- 🌱 I have projects with C#, nodeJS, React, Angular -->
 
 <div align="center">
   <a href="https://www.github.com/Loordbz">
